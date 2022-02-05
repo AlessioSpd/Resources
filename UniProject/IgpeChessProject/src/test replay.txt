@@ -1,0 +1,16 @@
+UNDO:LIGHT
+ARROCCO:DARK
+VS:PLAYER
+START
+e2:P -> e4:-
+a7:p -> a5:-
+g1:N -> h3:-
+b7:p -> b5:-
+f1:B -> c4:-
+b5:p -> b4:-
+d1:Q -> f3:-
+b8:n -> c6:-
+e1:K -> g1:-
+b4:p -> b3:-
+f3:Q -> f7:p
+END
